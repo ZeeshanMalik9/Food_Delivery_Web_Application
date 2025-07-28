@@ -27,22 +27,22 @@ A complete **Food Delivery Web App** built using **Java Full Stack technologies*
 ---
 
 ## 📁 Project Structure
-
+$ tree Food_Delivery_Web_APP/
 Food_Delivery_Web_APP/
 ├── src/
-│ └── com/proj/
-│ ├── DAO/ # DAO interfaces
-│ ├── DAOImp/ # DAO implementations using JDBC
-│ ├── models/ # POJO classes (User, Menu, Order, Cart, etc.)
-│ └── Servlets/ # Controllers (LoginServlet, MenuServlet, OrderServlet etc.)
+│   └── com/proj/
+│       ├── DAO/             # DAO interfaces
+│       ├── DAOImp/          # DAO implementations using JDBC
+│       ├── models/          # POJO classes (User, Menu, Order, Cart, etc.)
+│       └── Servlets/        # Servlet controllers
 ├── WebContent/
-│ ├── css/ # CSS stylesheets
-│ ├── js/ # JavaScript files
-│ ├── images/ # Static images used in the UI
-│ ├── pages/ # JSP pages (home.jsp, login.jsp, menu.jsp, cart.jsp, etc.)
-│ ├── index.jsp # Entry point of the application
-│ └── WEB-INF/
-│ └── web.xml # Servlet mappings and configurations
+│   ├── css/                 # CSS stylesheets
+│   ├── js/                  # JavaScript files
+│   ├── images/              # Static images for UI
+│   ├── pages/               # JSP pages (home.jsp, login.jsp, menu.jsp, cart.jsp, etc.)
+│   ├── index.jsp            # Main entry point
+│   └── WEB-INF/
+│       └── web.xml          # Servlet configurations
 ├── .project
 ├── .classpath
 └── README.md
