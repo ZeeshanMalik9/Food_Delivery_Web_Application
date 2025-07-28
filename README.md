@@ -27,7 +27,10 @@ A complete **Food Delivery Web App** built using **Java Full Stack technologies*
 ---
 
 ## 📁 Project Structure
-$ tree Food_Delivery_Web_APP/
+
+## 📁 Project Structure
+
+```bash
 Food_Delivery_Web_APP/
 ├── src/
 │   └── com/proj/
@@ -46,6 +49,7 @@ Food_Delivery_Web_APP/
 ├── .project
 ├── .classpath
 └── README.md
+
 
 
 
