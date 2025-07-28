@@ -1,4 +1,4 @@
-# 🍽️ Food Delivery Web Application
+# 🍽️ Food Delivery Web Application - FOOZEE
 
 A complete **Food Delivery Web App** built using **Java Full Stack technologies** (JSP, Servlets, JDBC, MySQL) for backend and **HTML, CSS, JS** for frontend. This system allows users to sign up, browse restaurants, view menus, order food, and track orders.
 
