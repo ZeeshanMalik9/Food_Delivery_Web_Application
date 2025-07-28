@@ -146,7 +146,7 @@ Food_Delivery_Web_APP/
 
 ```bash
 git clone https://github.com/ZeeshanMalik9/Food_Delivery_Web_APP.git
-
+ ``` 
 Step 2: Import into IDE
 
     Open Eclipse or IntelliJ
@@ -165,11 +165,11 @@ Step 4: Configure Database Connection
 
     File: DBConnection.java
     Update the JDBC connection details:
-
+```bash
 String url = "jdbc:mysql://localhost:3306/food_delivery_db";
 String user = "root";
 String pass = "your_password";
-
+```
 
 
 Step 5: Deploy to Tomcat
@@ -179,8 +179,9 @@ Step 5: Deploy to Tomcat
     OR build .war file and deploy it in Tomcat’s /webapps directory
 
 Step 6: Access in Browser
+```bash
     http://localhost:8080/Food_Delivery_Web_APP
-
+```
 
 ✅ Features Implemented
 
